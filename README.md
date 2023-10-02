@@ -15,7 +15,9 @@
 - <b>Python</b>
 
  <h2>📄Certifications:</h2>
-- [AWS Certified Cloud Practitioner]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/83798825-7ac9-4d9b-a4bd-742c9c6715bb/public_url))
+
+ - <b>Active Directory Home Lab </b>
+ - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL) 
 
 <h2> 🤳 Connect with me:</h2>
 
