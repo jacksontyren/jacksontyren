@@ -16,8 +16,8 @@
 
  <h2>📄Certifications:</h2>
 
- - <b>Active Directory Home Lab </b>
- - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL) 
+ - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL)
+ - [CompTIA Network+](https://github.com/jacksontyren/LABURL) 
 
 <h2> 🤳 Connect with me:</h2>
 
