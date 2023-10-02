@@ -1,7 +1,36 @@
-### Hi there 👋
+<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a>, <a>Programmer</a>
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Active Directory Home Lab </b>
+  - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
+    
+- <b>Incident Response</b>
+  - [Honeypot in Microsoft Azure](https://github.com/jacksontyren/LABURL) 
+
+ <h2>📊 Data Science and Analytics Projects:</h2>
+
+- <b>SQL</b>
+  - []()
+- <b>Python</b>
+
+ <h2>📄Certifications:</h2>
+- [AWS Certified Cloud Practitioner]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.credly.com/badges/83798825-7ac9-4d9b-a4bd-742c9c6715bb/public_url))
+
+<h2> 🤳 Connect with me:</h2>
+
+<!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
+-->
 <!--
-**jacksontyren/jacksontyren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
