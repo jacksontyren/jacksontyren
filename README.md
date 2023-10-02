@@ -16,7 +16,7 @@
 
  <h2>📄Certifications:</h2>
 
- - [AWS Certified Cloud Practitioner](https://imgur.com/9y2qSgW)
+ - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL)
  - [CompTIA Network+](https://github.com/jacksontyren/LABURL) 
 
 <h2> 🤳 Connect with me:</h2>
