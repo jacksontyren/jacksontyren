@@ -16,10 +16,13 @@
 
  <h2>📄Certifications:</h2>
 
+ - [CompTIA Security+](https://imgur.com/a/cPnBk92)
+ - [CompTIA Network+](https://imgur.com/a/Cq6fS2G)
  - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL)
- - [CompTIA Network+](https://github.com/jacksontyren/LABURL) 
+
 
 <h2> 🤳 Connect with me:</h2>
+
 
 <!-- [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
