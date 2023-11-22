@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/LABURL)
+  - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/https://github.com/jacksontyren/wireshark_capturing_creds/tree/main#readme)
     
 - <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
