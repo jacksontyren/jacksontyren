@@ -12,7 +12,7 @@
  -->
  <h2>📊 Data Science and Analytics Projects:</h2>
 
-- <b>SQL</b>
+<b>SQL</b>
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
 <!--- <b>Python</b>
 -->
