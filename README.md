@@ -4,7 +4,7 @@
 
   - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds#readme)
     
-<!--- <b>Active Directory Home Lab </b>
+<!-- <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
  -->
     
@@ -14,8 +14,8 @@
 
 - <b>SQL</b>
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
-- <b>Python</b>
-
+<!--- <b>Python</b>
+-->
  <h2>📄Certifications:</h2>
 
  - [CompTIA Security+](https://imgur.com/a/cPnBk92)
