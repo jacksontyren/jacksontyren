@@ -31,7 +31,7 @@
 [<img align="left" alt="TyrenJackson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[linkedin]: linkedin.com/in/tyren-r-jackson-ms-75b875133
+[linkedin]: https://linkedin.com/in/tyren-r-jackson-ms-75b875133
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
