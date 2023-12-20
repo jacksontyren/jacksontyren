@@ -6,10 +6,10 @@
 <!--     
  <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
-
-    
-  - [Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/LABURL) 
  -->
+    
+  - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/LABURL) 
+
  <h2>📊 Data Science and Analytics Projects:</h2>
 
 <b>SQL</b>
