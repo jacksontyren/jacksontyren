@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds#readme)
+ - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md)
  - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md)
  <!-- - [💻Vulnerability Management with OpenVAS](https://github.com/LABURL) -->
 <!--     
