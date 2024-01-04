@@ -3,13 +3,12 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
  - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds#readme)
+ - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md)
+ - [💻Vulnerability Management with OpenVAS](https://github.com/LABURL) 
 <!--     
  <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
  -->
-    
-  - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md) 
-
  <h2>📊 Data Science and Analytics Projects:</h2>
 
 <b>SQL</b>
