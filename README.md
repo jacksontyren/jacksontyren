@@ -18,6 +18,7 @@
  <h2>📄Certifications:</h2>
 
  - [CompTIA Security+](https://imgur.com/a/cPnBk92)
+ - [Security Blue Team's Blue Team Level 1](https://github.com/jacksontyren/jacksontyren/assets/121649532/9cc02e2d-eb2c-4838-9c1c-c798c9d5858c)
  - [CompTIA Network+](https://imgur.com/a/Cq6fS2G)
  - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL)
 
