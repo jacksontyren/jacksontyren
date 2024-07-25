@@ -14,9 +14,9 @@
 <b>SQL</b>
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
 
-<b>Python</b>
+<!--<b>Python</b>
   - [Firewall Simulator]()
-
+-->
 <b><b/>
  <h2>📄Certifications:</h2>
 
