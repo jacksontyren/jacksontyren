@@ -9,12 +9,15 @@
  <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
  -->
- <h2>📊 Data Science and Analytics Projects:</h2>
+ <h2>📊 Programming Projects:</h2>
 
 <b>SQL</b>
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
-<!--- <b>Python</b>
--->
+
+<b>Python</b>
+  - [Firewall Simulator]()
+
+<b><b/>
  <h2>📄Certifications:</h2>
 
  - [CompTIA Security+](https://imgur.com/a/cPnBk92)
