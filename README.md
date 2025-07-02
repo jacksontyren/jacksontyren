@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyren! <br/><a>Cybersecurity/Cloud Security Professional</a>
+<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
