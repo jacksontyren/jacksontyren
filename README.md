@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a>, <a>Programmer</a>
+<h1>Hi, I'm Tyren! <br/><a>Cybersecurity/Cloud Security Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -9,7 +9,14 @@
  <b>Active Directory Home Lab </b>
   - [Active Directory Home Lab](https://github.com/jacksontyren/LABURL)
  -->
- <h2>📊 Programming Projects:</h2>
+<!-- <h2>☁️ Cloud Projects:</h2>
+
+ - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/LABURL)
+ - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/LABURL)
+ - [🔓Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/LABURL)
+ - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/LABURL)
+ - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/LABURL)
+ <h2>📊 Programming Projects:</h2>  -->
 
 <b>SQL</b>
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
@@ -21,8 +28,9 @@
  <h2>📄Certifications:</h2>
 
  - [CompTIA Security+](https://imgur.com/a/cPnBk92)
- - [Security Blue Team's Blue Team Level 1](https://github.com/jacksontyren/jacksontyren/assets/121649532/9cc02e2d-eb2c-4838-9c1c-c798c9d5858c)
  - [CompTIA Network+](https://imgur.com/a/Cq6fS2G)
+ - [Splunk Core Certified User](https://github.com/user-attachments/assets/35fe04d0-da60-4175-9be0-36cc43f4aae5)
+ - [Security Blue Team's Blue Team Level 1](https://github.com/jacksontyren/jacksontyren/assets/121649532/9cc02e2d-eb2c-4838-9c1c-c798c9d5858c)
  - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL)
 
 
