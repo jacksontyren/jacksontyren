@@ -27,8 +27,8 @@
 <b><b/>
  <h2>📄Certifications:</h2>
 
- - [CompTIA Security+](https://imgur.com/a/cPnBk92)
- - [CompTIA Network+](https://imgur.com/a/Cq6fS2G)
+ - [CompTIA Security+](https://github.com/user-attachments/assets/1f7de156-9940-437f-b919-a6e759f50626)
+ - [CompTIA Network+](https://github.com/user-attachments/assets/1f7de156-9940-437f-b919-a6e759f50626)
  - [Splunk Core Certified User](https://github.com/user-attachments/assets/35fe04d0-da60-4175-9be0-36cc43f4aae5)
  - [Security Blue Team's Blue Team Level 1](https://github.com/jacksontyren/jacksontyren/assets/121649532/9cc02e2d-eb2c-4838-9c1c-c798c9d5858c)
  - [AWS Certified Cloud Practitioner](https://github.com/jacksontyren/LABURL)
