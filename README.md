@@ -1,7 +1,8 @@
 <h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a>
 
  <h2>👨‍💻 Ethical Hacking/Penetration Testing Projects:</h2>
-- [💻 TCM Security Capstone: Academy Machine](https://github.com/jacksontyren/**)
+- [💻 TCM Security Capstone: Academy Machine]()
+- [Google](www.google.com)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
