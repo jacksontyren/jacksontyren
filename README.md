@@ -1,13 +1,14 @@
-<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a>
+<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a><h1></h1>
+<h2>Ethical Hacking/Pentesting Specific Projects<h2>
 
- <h2>👨‍💻 Ethical Hacking/Penetration Testing Projects:</h2>
-- [💻 TCM Security Capstone: Academy Machine]()
-- [Google](www.google.com)
+ - [🔓 TCM Security Capstone: Academy Machine](https://github.com/LABURL)
+<!-- - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md) -->
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
- - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md)
+<h2>Cybersecurity Projects<h2>
+  
  - [🚨 Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md)
+ - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md)
+ - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
  <!-- - [💻Vulnerability Management with OpenVAS](https://github.com/LABURL) -->
 <!--     
  <b>Active Directory Home Lab </b>
@@ -22,7 +23,8 @@
  - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/LABURL)
  <h2>📊 Programming Projects:</h2>  -->
 
-<b>SQL</b>
+<h2>SQL<h2>
+
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
 
 <!--<b>Python</b>
@@ -38,11 +40,9 @@
  - [Splunk Core Certified User](https://github.com/user-attachments/assets/35fe04d0-da60-4175-9be0-36cc43f4aae5)
  - [Security Blue Team's Blue Team Level 1](https://github.com/jacksontyren/jacksontyren/assets/121649532/9cc02e2d-eb2c-4838-9c1c-c798c9d5858c)
 
+<br>
 
 <h2> 🤳 Connect with me:</h2>
-
-
-
 
 [<img align="left" alt="TyrenJackson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
