@@ -1,14 +1,15 @@
 <h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a><h1></h1>
-<h2>Ethical Hacking/Pentesting Specific Projects<h2>
-
+<!--
+ <h2>Ethical Hacking/Pentesting Specific Projects<h2>
+--
  - [🔓 TCM Security Capstone: Academy Machine](https://github.com/LABURL)
-<!-- - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md) -->
+ - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md) -->
 
 <h2>Cybersecurity Projects<h2>
   
  - [🚨 Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md)
  - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md)
- - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
+<!-- - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
  <!-- - [💻Vulnerability Management with OpenVAS](https://github.com/LABURL) -->
 <!--     
  <b>Active Directory Home Lab </b>
