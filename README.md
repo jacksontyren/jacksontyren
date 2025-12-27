@@ -1,11 +1,17 @@
-<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional</a><h1></h1>
-<!--
+<h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional </a> </h1>
+
+ <h2>Ethical Hacking/Penetration Testing Projects</h2>
+ 
+  - [🌐 Web Application Penetration Test](https://google.com)
+  - [Hello](https://google.com)
+
+ <!--
  <h2>Ethical Hacking/Pentesting Specific Projects<h2>
 --
  - [🔓 TCM Security Capstone: Academy Machine](https://github.com/LABURL)
  - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md) -->
 
-<h2>Cybersecurity Projects<h2>
+<h2>Cybersecurity Projects</h2>
   
  - [🚨 Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md)
  - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md)
@@ -24,7 +30,7 @@
  - [🚨Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/LABURL)
  <h2>📊 Programming Projects:</h2>  -->
 
-<h2>SQL<h2>
+<h2>SQL</h2>
 
   - [COVID19 Data Analysis in SQL](https://github.com/jacksontyren/COVID19-Data-Analysis-In-SQL)
 
@@ -34,6 +40,7 @@
 <b><b/>
  <h2>📄Certifications:</h2>
 
+ - [TCM Security Practical Junior Penetration Tester (PJPT)](https://github.com/user-attachments/assets/addf2e71-db44-484d-a167-cee7b46a6df4)
  - [CompTIA CySA+](https://github.com/user-attachments/assets/42bd1c4b-bcfc-4a9d-93bc-f116715d3245)
  - [CompTIA Security+](https://github.com/user-attachments/assets/1f7de156-9940-437f-b919-a6e759f50626)
  - [AZ-104](https://github.com/user-attachments/assets/b371810a-503c-4a3a-bd9a-3e70a7dd169f)
