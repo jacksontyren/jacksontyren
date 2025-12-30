@@ -2,7 +2,7 @@
 
  <h2>Ethical Hacking/Penetration Testing Projects</h2>
  
-  - [🌐 Web Application Penetration Test](https://google.com)
+  - [🌐 Web Application Penetration Test](https://www.notion.so/Web-App-Capstone-2d6c9dd1b9398055bdb0fada984c5198?source=copy_link)
  
 
  <!--
