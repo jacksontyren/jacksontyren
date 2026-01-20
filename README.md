@@ -1,10 +1,10 @@
 <h1>Hi, I'm Tyren! <br/><a>Cybersecurity Professional </a> </h1>
 
- <h2>Ethical Hacking/Penetration Testing Projects</h2>
+ <h2>Ethical Hacking/Penetration Testing </h2>
  
   - [🌐 Web Application Penetration Test](https://www.notion.so/Web-App-Capstone-2d6c9dd1b9398055bdb0fada984c5198?source=copy_link)
+   - [👣 HTB Footprinting Lab 1](https://www.notion.so/Footprinting-Lab-1-2ecc9dd1b93980778855febf3d9b4f73?source=copy_link)
  
-
  <!--
  <h2>Ethical Hacking/Pentesting Specific Projects<h2>
 --
