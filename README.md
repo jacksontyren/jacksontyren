@@ -6,7 +6,9 @@
    - [👣 HTB Footprinting Lab 1](https://www.notion.so/Footprinting-Lab-1-2ecc9dd1b93980778855febf3d9b4f73?source=copy_link)
    - [👣 HTB Footprinting Lab 2](https://www.notion.so/Footprinting-Lab-2-2ecc9dd1b93980a8b922d49e4283d18d?source=copy_link)
    - [👣 HTB Footprinting Lab 3](https://www.notion.so/Footprinting-Lab-3-2ecc9dd1b93980a49f75ecf3a4e1ef97?source=copy_link)
-   - [👣 HTB Attacking Common Services Lab 1](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-1-306c9dd1b939804d8345eca991279b32?source=copy_link)
+   - [⚔️ HTB Attacking Common Services Lab 1](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-1-306c9dd1b939804d8345eca991279b32?source=copy_link)
+   - [⚔️ HTB Attacking Common Services Lab 2](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-2-308c9dd1b939802cb4bcc4a2a35ef047?source=copy_link)
+   - [⚔️ HTB Attacking Common Services Lab 3](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-3-309c9dd1b93980b6b118dcc0a9eb2769?source=copy_link)
 
  <!--
  <h2>Ethical Hacking/Pentesting Specific Projects<h2>
