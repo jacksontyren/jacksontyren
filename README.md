@@ -17,7 +17,7 @@
  - [🔓 TCM Security Capstone: Academy Machine](https://github.com/LABURL)
  - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md) -->
 
-<h2>Cybersecurity Projects</h2>
+<h2>General Cybersecurity Projects</h2>
   
  - [🚨 Microsoft Azure SOC and Honeynet with Live Traffic](https://github.com/jacksontyren/Azure-SOC-/blob/main/README.md)
  - [🔓 Unlocking Insights: Capturing Clear Text Credentials Using Wireshark](https://github.com/jacksontyren/wireshark_capturing_creds/blob/main/README.md)
