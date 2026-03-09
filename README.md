@@ -2,7 +2,7 @@
 
  <h2>Ethical Hacking/Penetration Testing </h2>
  
-   - [🌐 Web Application Penetration Test](https://www.notion.so/Web-App-Capstone-2d6c9dd1b9398055bdb0fada984c5198?source=copy_link)
+   - [🌐 Web Application Penetration Test](https://aluminum-currency-41d.notion.site/Web-Application-Penetration-Testing-Capstone-2d6c9dd1b9398055bdb0fada984c5198?source=copy_link)
    - [🖥️ Active Directory Enumeration & Attacks Skills Assessment Part 1](https://aluminum-currency-41d.notion.site/Active-Directory-Enumeration-Attacks-Skills-Assessment-Part-1-31dc9dd1b9398084b14fde90cd664247?source=copy_link)
    - [👣 HTB Footprinting Lab 1](https://www.notion.so/Footprinting-Lab-1-2ecc9dd1b93980778855febf3d9b4f73?source=copy_link)
    - [👣 HTB Footprinting Lab 2](https://www.notion.so/Footprinting-Lab-2-2ecc9dd1b93980a8b922d49e4283d18d?source=copy_link)
