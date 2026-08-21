@@ -2,8 +2,7 @@
 
  <h2>Ethical Hacking/Penetration Testing </h2>
  
-   - [🌐 TCM Security Web Application Penetration Test Capstone](https://aluminum-currency-41d.notion.site/Web-Application-Penetration-Testing-Capstone-2d6c9dd1b9398055bdb0fada984c5198?source=copy_link)
-   - [🖥️ HTB Active Directory Enumeration & Attacks Skills Assessment Part 1](https://aluminum-currency-41d.notion.site/Active-Directory-Enumeration-Attacks-Skills-Assessment-Part-1-31dc9dd1b9398084b14fde90cd664247?source=copy_link)
+  
    - [🏢 HSM Active Directory Lab (BuildingMagic)](https://aluminum-currency-41d.notion.site/Active-Directory-Lab-BuildingMagic-36cc9dd1b939801d8fe8dd23a8ff9a91?source=copy_link)
    - [🏢 HSM Active Directory Lab (ShareThePain)](https://aluminum-currency-41d.notion.site/Active-Directory-Lab-ShareThePain-36dc9dd1b93980f988f6c8460728f563?source=copy_link)
    - [🏢 HSM Active Directory Lab (Anomaly)](https://aluminum-currency-41d.notion.site/Active-Directory-Lab-Anomaly-372c9dd1b939805a9df3d74406401d8f?source=copy_link)
@@ -18,7 +17,8 @@
    - [⚔️ HTB Attacking Common Services Lab 1](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-1-306c9dd1b939804d8345eca991279b32?source=copy_link)
    - [⚔️ HTB Attacking Common Services Lab 2](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-2-308c9dd1b939802cb4bcc4a2a35ef047?source=copy_link)
    - [⚔️ HTB Attacking Common Services Lab 3](https://aluminum-currency-41d.notion.site/Attacking-Common-Services-Lab-3-309c9dd1b93980b6b118dcc0a9eb2769?source=copy_link)
-
+ - [🌐 TCM Security Web Application Penetration Test Capstone](https://aluminum-currency-41d.notion.site/Web-Application-Penetration-Testing-Capstone-2d6c9dd1b9398055bdb0fada984c5198?source=copy_link)
+- [🖥️ HTB Active Directory Enumeration & Attacks Skills Assessment Part 1](https://aluminum-currency-41d.notion.site/Active-Directory-Enumeration-Attacks-Skills-Assessment-Part-1-31dc9dd1b9398084b14fde90cd664247?source=copy_link)
  <!--
  <h2>Ethical Hacking/Pentesting Specific Projects<h2>
 --
